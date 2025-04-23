@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com//Academic_CV/blob/main/Academic_CV-.pdf">
+<a href="https://github.com/ZakiaSultana001/ZakiaSultana001/blob/main/Zakia_Sultana001_CV.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>  
 
